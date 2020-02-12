@@ -1,0 +1,6 @@
+
+Name	Gender		Age	School
+
+Mayuri	Female		21	SSDS
+Swaraj	Male		20	DonBosco
+Shivani	Female		21	KVDIT
